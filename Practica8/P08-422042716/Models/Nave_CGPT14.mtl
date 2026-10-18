@@ -1,0 +1,71 @@
+newmtl Material_0
+Ka 0.1 0.1 0.1
+Kd 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64
+d 1
+illum 2
+map_Kd nave_ceramica.png
+
+newmtl Material_1
+Ka 0.1 0.1 0.1
+Kd 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64
+d 1
+illum 2
+map_Kd nave_material_1.png
+
+newmtl Material_2
+Ka 0.1 0.1 0.1
+Kd 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64
+d 1
+illum 2
+map_Kd nave_material_2.png
+
+newmtl Material_3
+Ka 0.1 0.1 0.1
+Kd 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64
+d 1
+illum 2
+map_Kd nave_material_3.png
+
+newmtl Material_4
+Ka 0.1 0.1 0.1
+Kd 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64
+d 1
+illum 2
+map_Kd nave_material_4.png
+
+newmtl Material_5
+Ka 0.1 0.1 0.1
+Kd 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64
+d 1
+illum 2
+map_Kd nave_material_5.png
+
+newmtl Material_6
+Ka 0.1 0.1 0.1
+Kd 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64
+d 1
+illum 2
+map_Kd nave_material_6.png
+
+newmtl Material_7
+Ka 0.1 0.1 0.1
+Kd 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64
+d 1
+illum 2
+map_Kd nave_material_7.png
