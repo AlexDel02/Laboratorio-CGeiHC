@@ -1,0 +1,7 @@
+newmtl calzada
+Kd 1 1 1
+map_Kd pista_grafito.png
+
+newmtl laterales
+Kd 1 1 1
+map_Kd pista_laterales.png
