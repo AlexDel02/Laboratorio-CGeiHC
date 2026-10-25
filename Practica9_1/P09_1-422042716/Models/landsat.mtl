@@ -1,0 +1,107 @@
+newmtl m0
+Kd 1 1 1
+map_Kd landsat_mat_0.png
+
+newmtl m1
+Kd 1 1 1
+map_Kd landsat_mat_1.png
+
+newmtl m2
+Kd 1 1 1
+map_Kd landsat_mat_2.png
+
+newmtl m3
+Kd 1 1 1
+map_Kd landsat_mat_3.png
+
+newmtl m4
+Kd 1 1 1
+map_Kd landsat_image_7.png
+
+newmtl m5
+Kd 1 1 1
+map_Kd landsat_mat_5.png
+
+newmtl m6
+Kd 1 1 1
+map_Kd landsat_mat_6.png
+
+newmtl m7
+Kd 1 1 1
+map_Kd landsat_mat_7.png
+
+newmtl m8
+Kd 1 1 1
+map_Kd landsat_mat_8.png
+
+newmtl m9
+Kd 1 1 1
+map_Kd landsat_mat_9.png
+
+newmtl m10
+Kd 1 1 1
+map_Kd landsat_mat_10.png
+
+newmtl m11
+Kd 1 1 1
+map_Kd landsat_mat_11.png
+
+newmtl m12
+Kd 1 1 1
+map_Kd landsat_mat_12.png
+
+newmtl m13
+Kd 1 1 1
+map_Kd landsat_mat_13.png
+
+newmtl m14
+Kd 1 1 1
+map_Kd landsat_mat_14.png
+
+newmtl m15
+Kd 1 1 1
+map_Kd landsat_mat_15.png
+
+newmtl m16
+Kd 1 1 1
+map_Kd landsat_mat_16.png
+
+newmtl m17
+Kd 1 1 1
+map_Kd landsat_mat_17.png
+
+newmtl m18
+Kd 1 1 1
+map_Kd landsat_mat_18.png
+
+newmtl m19
+Kd 1 1 1
+map_Kd landsat_mat_19.png
+
+newmtl m20
+Kd 1 1 1
+map_Kd landsat_mat_20.png
+
+newmtl m21
+Kd 1 1 1
+map_Kd landsat_mat_21.png
+
+newmtl m22
+Kd 1 1 1
+map_Kd landsat_mat_22.png
+
+newmtl m23
+Kd 1 1 1
+map_Kd landsat_mat_23.png
+
+newmtl m24
+Kd 1 1 1
+map_Kd landsat_mat_24.png
+
+newmtl m25
+Kd 1 1 1
+map_Kd landsat_image_15.png
+
+newmtl m26
+Kd 1 1 1
+map_Kd landsat_image_15.png
